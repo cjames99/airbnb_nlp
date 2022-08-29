@@ -1,4 +1,4 @@
-# What Patterns can be found in the Unstructured Description text of Air Bnb Listings?
+# What Patterns can be found in the Unstructured Description texts of Air Bnb Listings?
 Airbnb offers individuals around the world thousands of unique short-term rental opportunities based on their own series of accommodation/stay requirements. 
 
 This project aims to aid both renters and listers by taking a focus around data mining/knowledge discovery and leveraging text mining to uncover trends in the data related to the rental price. This will allow potential renters/listers to better understand how each listing compares to homes in their immediate area as well as other rental markets around the world, which in turn will influence the decision of their rental property selection.
